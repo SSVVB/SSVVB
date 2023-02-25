@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sam!
-- 👀 I’m interested in becoming a coding and mathematics wizard.
+- 👀 I’m interested in website and app development.
 - 🌱 I’m currently learning Python's Django package to advance my understanding of back-end developement. 
 - 💞️ I’m looking to collaborate on beginner projects to be involved in the community.
 - 📫 How to reach me: @SSVVB
