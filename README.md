@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @SSVVB
+- 👋 Hi, I’m Sam!
 - 👀 I’m interested in becoming a coding and mathematics wizard.
-- 🌱 I’m currently learning Python's packages.
-- 💞️ I’m looking to collaborate on beginner -> advanced projects to be involved in the community and improve my skills.
+- 🌱 I’m currently learning Python's Django package to advance my understanding of back-end developement. 
+- 💞️ I’m looking to collaborate on beginner projects to be involved in the community.
 - 📫 How to reach me: @SSVVB
 
 <!---
